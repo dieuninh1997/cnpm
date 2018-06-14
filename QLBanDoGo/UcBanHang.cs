@@ -332,7 +332,7 @@ namespace QLBanDoGo
                     flpnControlBanHang.Enabled = true;
                     txtTongTien.Text = Common._DoiSoSangDonViTienTe( sumTongTien(lst));
                    // MessageBox.Show("$=" + sumTongTien(lst));
-                    msg = "Tìm thấy hóa đơn";
+                   // msg = "Tìm thấy hóa đơn";
                 }
                 else
                 {
